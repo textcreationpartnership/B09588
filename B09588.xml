@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new summons, to warn all bawds and whores, to the gossiping of the temple-twins</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09588</idno><idno type="EEBO-CITATION">64551404</idno>
+  <idno type="VID">184669</idno>
+  <idno type="EEBO-PROQUEST">2240859318</idno>
+  
+            <idno type="STC">Wing N778A</idno>
+            <idno type="STC">ESTC R224580</idno>
+            <idno type="OCLC">64551404</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09588)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184669)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2870:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new summons, to warn all bawds and whores, to the gossiping of the temple-twins</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Smart,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prostitutes --  England --  London --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184669:1"/>
+            <head>A New Summons, to warn all the Bawds and Whores, to the Gossiping of the <hi>Temple</hi>-Twins.</head>
+            <figure>
+               <figDesc>woodcut: group at the christening of two babies</figDesc>
+            </figure>
+            <p>AS We have lately given you the famous Narrative of a short but Renown<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Westminster-Wedding,</hi> and re<g ref="char:EOLunhyphen"/>counted the Prodigious Feats of <hi>Chivalry,</hi> perfor<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed by a certain <hi>Knight-Templer,</hi> upon the Body of a <hi>Fleet-street</hi> Lady; so, to prosecute this Noble History, No sooner this Renown rung through the Town, but a Congratulatory Ad<g ref="char:EOLhyphen"/>dress from the whole Body of those Matronly Ladies, <hi>fair Venus'es Court of Assistants,</hi> was handed up by the Venerable Madam <hi>Crom—l,</hi> their Chair-woman, and subscribed by the Executrices of <hi>Bennet, Gifford, Crefwel,</hi> &amp;c. not only setting forth the Generosity of the Knight, in so hospitable a Recep<g ref="char:EOLunhyphen"/>tion of the Straggling Damsel; but more particularly Her own resounding Glory in so Illustrious a Production; as, ha<g ref="char:EOLhyphen"/>ving little less than retrieved the whole lost Honour of her Function: For as generally those softer <hi>Feminine Rovers</hi> that (as <hi>Io</hi> says in his Proloage) manage an hundred Shuttles in one Loom, those fair <hi>Latitudinarians in Love</hi> (tho otherwise naturally p<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rhaps of a Pregnant and Fertile Con<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tution; yet, what with too many Pl<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ughs to turn up their Glebe, whilst one Roots up the Tilth of the other) prove comonly but a <hi>Barren sort of Soyl,</hi> insomuch that, like the famous <hi>Doll</hi> to the <hi>Troop,</hi> they seldom arrive to any Product above a Cushion▪ However this particular Sister of the Family of <hi>Love,</hi> on the Contrary, had Buoy'd up the sinking Reputati<g ref="char:EOLhyphen"/>on of the whole Tribe in so healthy and lumping a Brace of <hi>Bantlings,</hi> in spight of her hundred several H<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mmers and Moulds in her Mint, yet stamp'd with so fair an Impression.</p>
+            <p>Amongst the rest poor Mrs. <hi>Stratford,</hi> the late Pillory'd Matron, joyn'd in the Congratulation, only with one addi<g ref="char:EOLhyphen"/>tional Line or two of Condolence, heartily wishing that her <hi>Fo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntain-Tavern Damse<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> had been but of half this tender Kid<g ref="char:EOLhyphen"/>ney: For then <hi>Warm-Love</hi> instead of <hi>Lighted-Candles</hi> might have done the Gentler Execution, and sav'd her the hard Pennance of her <hi>Wooden-Ruff,</hi> and the rest of her doleful Mortyfications of Concupisence, <hi>&amp;c.</hi>
+            </p>
+            <p>But as our <hi>Temple Knight</hi> has performed such brisk <hi>Father-work,</hi> and made such hopeful <hi>Nurse work,</hi> so 'its now high time for him to think of the <hi>Christening-work</hi> too: For 'tis not sufficient that the Young <hi>Bantlings</hi> are Born within the Verge of the <hi>Temple,</hi> but they must be brought into the Pale of the <hi>Church.</hi> And accordingly, for all due Preparations for tha Solemnity, 'twas advised, by way of Splendour and Magnifi<g ref="char:EOLhyphen"/>cence, to perform these last great Rites on no less than the Memorable 10th. of <hi>June,</hi> the famous Birth-day of <hi>&amp;c.</hi> that so by joyning two such Important <hi>Festivals, viz</hi> that <hi>Anni<g ref="char:EOLhyphen"/>versary,</hi> and this <hi>Gossi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing;</hi> the same <hi>Bo<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fires</hi> and <hi>I<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>luminations</hi> might Celebrate and Illustrate both together, and so make a more than ordinary <hi>Triumph.</hi> Besides as were excused the Charges of <hi>Midwifery,</hi> 'tis resolved, <hi>That what we saved in the Groaning preparations, shall be doubled ith' Gossiping Ent<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtainment.</hi>
+            </p>
+            <p>The <hi>Godfathers</hi> were Men of Rank and Character and no less than very Eminent. <hi>Minstrels</hi> and <hi>Tembrels, Flutes, Haut-boys</hi> and <hi>Trumpets,</hi> were provided on this Account, <hi>Mu<g ref="char:EOLhyphen"/>sick</hi> both <hi>Civil</hi> and <hi>Military,</hi> all Joy and Jollity to fill up the <hi>Chorus</hi> and crown the <hi>Feast.</hi>
+            </p>
+            <p>To match our <hi>Godfathers,</hi> the <hi>Gossips</hi> were suitably chosen, being a Brace and a half of kind <hi>Titts,</hi> those very civil good natured <hi>Pa<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tners</hi> that the Celebrating of one <hi>Christening,</hi> like true Friends to the <hi>B<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d straw</hi> would not be wanting to lay a Foundation for another, being those Gay, Brisk, Dancing Girl as could cut <hi>Capers</hi> to every Tune of <hi>Posture Moll.</hi>
+            </p>
+            <p>The Partners thus fixt, they, and their Retinue, all took Coach from the <hi>Dog-Tavern</hi> in <hi>Drury Lane,</hi> (the Hospitable Roof appointed for the <hi>Festiva</hi>) for <hi>Pancras-Church,</hi> that fa<g ref="char:EOLhyphen"/>mous Mother of <hi>Paul</hi>'s, being particularly selected for this Occasion; as being a kind of a <hi>Libertine Temple,</hi> where, like the Old <hi>A<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k,</hi> the <hi>Licensed</hi> or <hi>Ʋnlicensed Turtle Mates,</hi> the <hi>Clean,</hi> or <hi>Ʋnclean</hi> enter in <hi>Pairs.</hi> As they marched on, the Coaches were ordered to move very gently, for this Politick Reason, <hi>viz.</hi> That if the Remembrance of the brisk <hi>Lady</hi> in Straw should chance to stir up any warm Thoughts in any of the <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ind Pairs, amongst this good Company, to take a Pat<g ref="char:EOLhyphen"/>tern from the <hi>fair Copy,</hi> the <hi>Bouncing Young Sucklings</hi> before them, it was but drawing up the Coach Windows and falling on after the Mothers own Sample: For if the <hi>Coach</hi> drove softly, and not jolted too hard, they might mount sa<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and ride on secure, without fear of being shockt out of the Saddle.</p>
+            <p>After the <hi>Sprinkling Church-Ceremonies</hi> were done, the whole <hi>Cavalcade</hi> returned to the <hi>Dog,</hi> there to finish the remaining <hi>Tavern Rites,</hi> where the <hi>Juice of the Grape,</hi> that precious <hi>Hea<g ref="char:EOLhyphen"/>venly Dew,</hi> went plentifully round, not a little <hi>Consecrated</hi> by many a <hi>Sanctifying Health</hi> as not forgetting the great double Work of the Day. In short, the <hi>Gossips</hi> were so <hi>Blith</hi> and <hi>Jolly,</hi> and the whole Company so <hi>Lovingly Sociable,</hi> that in some few Months you may expect to hear of some New <hi>Temple Work Midwifery</hi> as the second part to this <hi>Galloping Tune.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for <hi>P. S<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>art</hi> in <hi>Fleetstreet,</hi> 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
